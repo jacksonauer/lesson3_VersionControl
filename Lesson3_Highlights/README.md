@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Jackson Auer)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Learn about VCS's and learn how to use GitHub.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (VCS's are extremely helpful for collaboratively coding projects.)
+2. (GitHub was built by Linux creator, Linus Torvalds.)
+3. (Using a CVS allows you to go back to previous versions of a file you have been working on which you would not normally be able to do.)
